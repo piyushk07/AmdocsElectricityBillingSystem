@@ -19,7 +19,7 @@ This is a simple command-line Java program that simulates an electricity billing
 
 3. Compile the Java program using the following command:
    ```shell
-   javac ElectricityBillingSystem.java
+   java ElectricityBillingSystem.java
 
 ## Usage
 The program provides a simple menu-driven interface:
