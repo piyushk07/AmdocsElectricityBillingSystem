@@ -29,8 +29,6 @@ Add User: Allows you to add a new user with their name, address, and meter ID.
 
 Calculate Bills: Calculates the electricity bill for a specific user.
 
-You can follow the on-screen prompts to navigate through the options and interact with the program.
-
 ## Contributing
 Contributions to improve this program are welcome! If you have any suggestions or enhancements, please open an issue or create a pull request.
 
